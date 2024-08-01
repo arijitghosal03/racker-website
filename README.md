@@ -1,3 +1,4 @@
+
 <h1>Online Poker Web App</h1>
  <p>This Online Poker Web App is a fully-featured platform designed for poker enthusiasts to play and manage poker games in a virtual environment. Built with modern web technologies, this app offers a seamless and engaging experience, whether you're playing casually or running organized sessions.</p>
 
@@ -70,4 +71,23 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`</code></pre>
 
   <h2>Usage</h2>
     <p>Once both the frontend and backend are running, you can start playing poker, manage sessions, and access admin features through the web interface.</p>
+<h2>Presentation</h2>
+   <p>Login Page</p>
 
+![Updated 1 and 19 more pages - arijitghosal0309@gmail com - Microsoft​ Edge 01-08-2024 09_13_43](https://github.com/user-attachments/assets/62f05367-5e8a-4d23-8232-3a3c82bcf02f)
+
+<p>New Session's Page</p>
+
+![Updated 1 and 19 more pages - arijitghosal0309@gmail com - Microsoft​ Edge 01-08-2024 09_13_53](https://github.com/user-attachments/assets/5e8d7725-bfc0-42d3-bce6-1bcdb05e3106)
+
+<p>Game Rules</p>
+
+![Updated 1 and 19 more pages - arijitghosal0309@gmail com - Microsoft​ Edge 01-08-2024 09_12_50](https://github.com/user-attachments/assets/909f2de1-b312-453e-ba5f-b7026e88fc32)
+
+<p>Saved Sessions</p>
+
+![Updated 1 and 19 more pages - arijitghosal0309@gmail com - Microsoft​ Edge 01-08-2024 09_13_07](https://github.com/user-attachments/assets/5d5e7710-ce1b-40f1-bde6-c0fa07728fff)
+
+<p>Create New Play</p>
+
+![Updated 1 and 19 more pages - arijitghosal0309@gmail com - Microsoft​ Edge 01-08-2024 09_12_21](https://github.com/user-attachments/assets/dbef8722-6282-4115-961d-a4cf67972cf0)
