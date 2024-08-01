@@ -1,0 +1,165 @@
+.roundOnlyLogo {
+  position: absolute;
+  margin: 0 !important;
+  top: 34.66px;
+  left: 14.63px;
+  width: 45.73px;
+  height: 45.73px;
+  z-index: 0;
+}
+.label,
+.pleaseFillIn {
+  align-self: stretch;
+  position: relative;
+}
+.pleaseFillIn {
+  letter-spacing: 0.01em;
+  line-height: 21.95px;
+  font-weight: 600;
+  z-index: 1;
+}
+.label {
+  cursor: default;
+  line-height: 150%;
+}
+.blindsinput,
+.textfield {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.blindsinput {
+  border: 0.6px solid var(--components-button-bordercolor);
+  font-family: var(--font-vollkorn);
+  font-size: 10.97px;
+  background-color: transparent;
+  align-self: stretch;
+  border-radius: var(--br-10xs-2);
+  padding: 4.402517795562744px 8.805035591125488px;
+  align-items: center;
+}
+.textfield {
+  flex: 1;
+  align-items: flex-start;
+  gap: var(--gap-6xs-6);
+}
+.textfieldParent,
+.textfieldWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.textfieldParent {
+  gap: var(--gap-lg);
+}
+.label3 {
+  cursor: default;
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.label3:active {
+  cursor: auto;
+}
+.textfield3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-6xs-6);
+}
+.startSpacing {
+  position: relative;
+  width: 4px;
+  height: 24px;
+}
+.approvetick24Outline {
+  position: relative;
+  width: 16.98px;
+  height: 16.98px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label5 {
+  position: relative;
+  line-height: 14.15px;
+  font-weight: 500;
+}
+.endSpacing {
+  position: relative;
+  width: 8px;
+  height: 24px;
+}
+.buttonSecondaryWithIconle {
+  border-radius: 2.12px;
+  background-color: var(--cloud-dark);
+  box-shadow: 0 1.415065884590149px 2.83px rgba(0, 0, 0, 0.25);
+  height: 31.13px;
+  display: flex;
+  flex-direction: row;
+  padding: 7.075329303741455px var(--padding-0);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.66px;
+}
+.historyIcon {
+  position: relative;
+  width: 15.57px;
+  height: 15.57px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.airesponsecard,
+.buttonSecondaryWithIconleParent,
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttonSecondaryWithIconleParent {
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0)
+    7.075329303741455px;
+  gap: var(--gap-9xl-3);
+  font-size: 9.91px;
+  color: var(--ink-normal);
+}
+.airesponsecard,
+.frameParent {
+  flex-direction: column;
+}
+.frameParent {
+  gap: var(--gap-3xs);
+  z-index: 2;
+  font-size: var(--font-size-smi-8);
+  color: var(--components-field-label-color);
+}
+.airesponsecard {
+  border-radius: 13.72px;
+  background-color: var(--color-whitesmoke-300);
+  box-shadow: 0 0 7.32px rgba(0, 0, 0, 0.25);
+  padding: 18.291261672973633px 14.633009910583496px 14.633009910583496px
+    var(--padding-51xl);
+  position: relative;
+  gap: 18.29px;
+  z-index: 0;
+  text-align: left;
+  font-size: 14.63px;
+  color: var(--components-button-color);
+  font-family: var(--font-vollkorn);
+}
+@media screen and (max-width: 420px) {
+  .blindsinput {
+    align-self: stretch;
+    width: auto;
+    height: auto;
+  }
+  .label3 {
+    font-size: var(--font-size-smi);
+  }
+}

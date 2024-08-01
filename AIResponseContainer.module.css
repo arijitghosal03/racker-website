@@ -1,0 +1,112 @@
+.roundOnlyLogo {
+  position: absolute;
+  margin: 0 !important;
+  top: 13.68px;
+  left: 13.68px;
+  width: 42.74px;
+  height: 42.74px;
+  z-index: 0;
+}
+.isThisSummary {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 20.52px;
+  font-weight: 600;
+}
+.sjdfIsjrfnSifjisd {
+  margin: 0;
+}
+.sjdfIsjrfnSifjisdContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.01em;
+  line-height: 20.52px;
+}
+.isThisSummaryOfTheAboveHParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0)
+    var(--padding-31xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  z-index: 1;
+}
+.startSpacing {
+  position: relative;
+  width: 4px;
+  height: 24px;
+}
+.approvetick24Outline {
+  position: relative;
+  width: 18.05px;
+  height: 18.05px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label {
+  position: relative;
+  line-height: 15.04px;
+  font-weight: 500;
+}
+.endSpacing {
+  position: relative;
+  width: 8px;
+  height: 24px;
+}
+.buttonSecondaryWithIconle {
+  border-radius: 2.26px;
+  background-color: var(--cloud-dark);
+  box-shadow: 0 1.5038560628890991px 3.01px rgba(0, 0, 0, 0.25);
+  height: 33.08px;
+  display: flex;
+  flex-direction: row;
+  padding: 7.519280433654785px var(--padding-0);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6.02px;
+}
+.historyIcon,
+.pencil24Outline {
+  position: relative;
+  width: 15.04px;
+  height: 15.04px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.historyIcon {
+  width: 15.57px;
+  height: 15.57px;
+}
+.airesponsecard,
+.buttonSecondaryWithIconleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  z-index: 2;
+  font-size: 10.53px;
+  color: var(--ink-normal);
+}
+.airesponsecard {
+  align-self: stretch;
+  border-radius: 12.82px;
+  background-color: var(--color-whitesmoke-300);
+  box-shadow: 0 0 6.84px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  padding: 17.09682846069336px 13.677462577819824px 13.677462577819824px
+    var(--padding-mini);
+  align-items: flex-start;
+  position: relative;
+  gap: var(--gap-6xl);
+  z-index: 1;
+  text-align: left;
+  font-size: 13.68px;
+  color: var(--components-button-color);
+  font-family: var(--font-vollkorn);
+}

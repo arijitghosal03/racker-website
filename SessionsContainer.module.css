@@ -1,0 +1,104 @@
+.sessions {
+  position: relative;
+  line-height: 150%;
+}
+.buttonIcon {
+  position: relative;
+  width: 12.93px;
+  height: 12.93px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.label {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.button {
+  border-radius: 2.59px;
+  border: 0.6px solid var(--components-button-bordercolor);
+  display: flex;
+  flex-direction: row;
+  padding: 5.172380447387695px 10.34476089477539px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 12.93px;
+  color: var(--components-button-color);
+}
+.thTueParent {
+  padding: 5.170755863189697px var(--padding-0) 5.170755863189697px
+    10.341511726379395px;
+}
+.ariaCasinoWithPhilParent,
+.parent,
+.thTueParent {
+  background-color: var(--white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10.34px;
+}
+.ariaCasinoWithPhilParent {
+  padding: 5.170755863189697px 36.195289611816406px 5.170755863189697px
+    var(--padding-0);
+}
+.parent {
+  padding: 5.170755863189697px;
+}
+.div3 {
+  position: relative;
+  line-height: 150%;
+  color: var(--color-red);
+}
+.frameParent,
+.group {
+  display: flex;
+  align-items: flex-start;
+}
+.group {
+  background-color: var(--white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 5.170755863189697px;
+  justify-content: flex-start;
+  gap: 10.34px;
+  color: var(--color-forestgreen);
+}
+.frameParent {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-xs);
+}
+.june2023Parent,
+.sessionsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.59px;
+  font-size: var(--font-size-mini);
+}
+.sessionsParent {
+  margin: 0 !important;
+  position: absolute;
+  top: 90px;
+  left: 75px;
+  width: 280px;
+  height: 229.81px;
+  padding: var(--padding-21xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12.93px;
+  opacity: 0.9;
+  min-width: 280px;
+  z-index: 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-vollkorn);
+}

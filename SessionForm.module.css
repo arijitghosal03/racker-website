@@ -1,0 +1,158 @@
+.addTableDetails {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 12.03px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--components-button-color);
+}
+.label {
+  cursor: default;
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.label:active {
+  cursor: auto;
+}
+.sessionnameinput,
+.textfield {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sessionnameinput {
+  border: 0.6px solid var(--components-button-bordercolor);
+  font-family: var(--font-vollkorn);
+  font-size: var(--font-size-2xs);
+  background-color: transparent;
+  border-radius: 2.41px;
+  padding: 4.813793182373047px 9.627586364746094px;
+  align-items: center;
+}
+.textfield {
+  align-items: flex-start;
+  gap: 7.22px;
+}
+.label1 {
+  cursor: default;
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.blindsinput,
+.textfield1 {
+  flex-direction: column;
+  justify-content: center;
+}
+.blindsinput {
+  border: 0.6px solid var(--components-button-bordercolor);
+  font-family: var(--font-vollkorn);
+  font-size: var(--font-size-2xs);
+  background-color: transparent;
+  align-self: stretch;
+  border-radius: 2.41px;
+  display: flex;
+  padding: 4.813793182373047px 9.627586364746094px;
+  align-items: center;
+}
+.textfield1 {
+  flex: 1;
+  gap: 7.22px;
+}
+.textfield1,
+.textfield2,
+.textfieldParent {
+  display: flex;
+  align-items: flex-start;
+}
+.textfield2 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+}
+.textfieldParent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.textfield3 {
+  width: 138.42px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 7.22px;
+  z-index: 0;
+}
+.dropDownExpense,
+.textfield3,
+.textfield4 {
+  display: flex;
+  flex-direction: column;
+}
+.textfield4 {
+  width: 138.42px;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 1;
+}
+.dropDownExpense {
+  width: 120px;
+  margin: 0 !important;
+  position: absolute;
+  top: 24.31px;
+  left: 88.92px;
+  z-index: 2;
+}
+.textfieldGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.label8 {
+  line-height: 150%;
+}
+.label8,
+.switch {
+  position: relative;
+}
+.switchfield {
+  display: flex;
+  flex-direction: row;
+  padding: 4.813793182373047px;
+  align-items: center;
+  justify-content: center;
+  gap: 4.81px;
+}
+.addTableDetailsParent,
+.switchfieldParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: right;
+}
+.addTableDetailsParent {
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--components-field-label-color);
+  font-family: var(--font-vollkorn);
+}
+@media screen and (max-width: 420px) {
+  .label {
+    font-size: var(--font-size-smi);
+  }
+  .blindsinput {
+    align-self: stretch;
+    width: auto;
+    height: auto;
+  }
+}

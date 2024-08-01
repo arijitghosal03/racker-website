@@ -1,0 +1,59 @@
+.onlylogoIcon {
+  width: 50.72px;
+  height: 39.46px;
+}
+.onlylogoIcon,
+.racker {
+  position: relative;
+}
+.logoWName,
+.onlynamelogo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+}
+.logoWName {
+  width: 132.28px;
+  height: 39px;
+  padding: var(--padding-0) var(--padding-0) 0.01285666786134243px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: var(--gap-9xs-1);
+}
+.vectorIcon {
+  position: relative;
+  width: 21.67px;
+  height: 13px;
+}
+.bars24Outline {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xs-5) 2.1666667461395264px;
+  align-items: center;
+  justify-content: center;
+}
+.bars24OutlineWrapper,
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.bars24OutlineWrapper {
+  flex: 1;
+  padding: var(--padding-3xs) var(--padding-11xl) var(--padding-3xs)
+    var(--padding-3xs);
+  justify-content: flex-end;
+}
+.navbar {
+  align-self: stretch;
+  border-bottom: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  height: 70px;
+  padding: var(--padding-sm) var(--padding-mini);
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 21.68px;
+  color: var(--color-gray-200);
+  font-family: var(--font-volkhov);
+}

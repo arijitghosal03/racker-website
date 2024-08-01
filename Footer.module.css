@@ -1,0 +1,135 @@
+.savedHands {
+  position: relative;
+  line-height: 150%;
+}
+.aAParent,
+.myHandParent {
+  background-color: var(--white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 7.507315158843994px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 75.07px;
+}
+.aAParent {
+  justify-content: center;
+  cursor: pointer;
+}
+.frameGroup,
+.savedHandsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameGroup {
+  font-size: 15.01px;
+}
+.savedHandsParent {
+  padding: var(--padding-0) var(--padding-0) var(--padding-xl);
+  gap: 3.75px;
+}
+.plus24Outline,
+.startSpacing {
+  position: relative;
+  width: 4px;
+  height: 24px;
+}
+.plus24Outline {
+  width: 17.04px;
+  height: 17.04px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label {
+  position: relative;
+  line-height: 14.2px;
+  font-weight: 500;
+}
+.endSpacing {
+  position: relative;
+  width: 8px;
+  height: 24px;
+}
+.buttonSecondaryWithIconle {
+  border-radius: 2.13px;
+  background-color: var(--cloud-dark);
+  box-shadow: 0 1.419798731803894px 2.84px rgba(0, 0, 0, 0.25);
+  height: 31.24px;
+  display: flex;
+  flex-direction: row;
+  padding: 7.098992824554443px var(--padding-0);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.68px;
+}
+.minus24Outline {
+  position: relative;
+  width: 14.2px;
+  height: 14.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buttonSecondaryWithIconleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18.74px;
+  font-size: 9.94px;
+  color: var(--ink-normal);
+}
+.placeholder {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+}
+.paperPlane24Outline {
+  position: relative;
+  width: 18.11px;
+  height: 18.11px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.input {
+  align-self: stretch;
+  border-radius: 3.02px;
+  border: 0.8px solid var(--color-darkgray-100);
+  display: flex;
+  padding: 6.03636360168457px 12.07272720336914px;
+  align-items: center;
+  gap: 7.55px;
+}
+.input,
+.inputgroup {
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+}
+.frameParent,
+.inputgroup,
+.textareafield {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.textareafield {
+  height: 42px;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 12.07px;
+  color: var(--color-gray-100);
+}
+.frameParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  z-index: 0;
+  text-align: left;
+  font-size: 18.02px;
+  color: var(--color-black);
+  font-family: var(--font-vollkorn);
+}
