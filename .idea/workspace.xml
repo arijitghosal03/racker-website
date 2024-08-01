@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c635e645-7195-4c9e-913a-67465905b7b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/transaction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/transaction/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/transaction" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RjEzjXa0JN2KSIFFI06BruWKox" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ARIJIT\PycharmProjects\Database Project webapp\transaction\src\components" />
+      <recent name="C:\Users\ARIJIT\PycharmProjects\Database Project webapp\transaction\public" />
+      <recent name="C:\Users\ARIJIT\PycharmProjects\Database Project webapp\transaction\components" />
+      <recent name="C:\Users\ARIJIT\PycharmProjects\Database Project webapp\transaction\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Database Project webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ARIJIT\PycharmProjects\Database Project webapp\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c635e645-7195-4c9e-913a-67465905b7b7" name="Changes" comment="" />
+      <created>1687755358637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687755358637</updated>
+    </task>
+    <servers />
+  </component>
+</project>
